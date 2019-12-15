@@ -1,0 +1,26 @@
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\bin\Debug\VersionComparison.exe
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\bin\Debug\VersionComparison.pdb
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.MainForm.resources
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.Properties.Resources.resources
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.csproj.GenerateResource.Cache
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.exe
+C:\Documents and Settings\User-260-1\Мои документы\Visual Studio 2008\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.pdb
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\obj\Debug\VersionComparison.exe
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\obj\Debug\VersionComparison.pdb
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\bin\Debug\VersionComparison.exe
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\bin\Debug\VersionComparison.pdb
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\obj\Debug\VersionComparison.MainForm.resources
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\obj\Debug\VersionComparison.Properties.Resources.resources
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\obj\Debug\VersionComparison.csproj.GenerateResource.Cache
+C:\Documents and Settings\User-260-1\Мои документы\VersionComparison\VersionComparison\VersionComparison\bin\Debug\VersionComparison.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\bin\Debug\VersionComparison.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\bin\Debug\VersionComparison.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\bin\Debug\VersionComparison.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.MainForm.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\VersionComparison\VersionComparison\obj\Debug\VersionComparison.csproj.GenerateResource.Cache
